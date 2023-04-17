@@ -1,6 +1,7 @@
 We would like to acknowledge previous OCI image spec maintainers and their huge contributions to our collective success:
 
 * Brandon Philips (@philips)
+* B String (@bstring)
 * Brendan Burns (@brendandburns)
 * Jason Bouzane (@jbouzane)
 * John Starks (@jstarks)
